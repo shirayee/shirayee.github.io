@@ -27,7 +27,7 @@ slug: "resume"
   - AWS(EC2, RDS, Route53)
 - スマートフォン向けSNSアプリの開発
   - クライアント及びバックエンドを担当
-  - Titanium mobile
+  - Titanium mobile
   - AWS(EC2, RDS, Route53)
   - PHP(Codeigniter)
 - キュレーションメディアの開発
