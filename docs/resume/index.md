@@ -112,9 +112,16 @@ slug: "resume"
   - fluentd
   - Nuxt.js
   - TypeScript
+  - Golang
+  - PHP
 - 求人サービスの開発
-  - インフラを担当
-  - AWS(Fargate, RDS, Route53, ALB, CloudFront, S3, SES, CloudWatch)
+  - インフラ及び一部マイクロサービスの実装、管理画面の開発を担当
+  - AWS(Fargate, RDS, Route53, ALB, CloudFront, S3, SES, CloudWatch, SQS, Lambda)
   - Terraform
   - Packer
   - Ansible
+  - Golang
+  - Vue.js
+  - Nuxt.js
+  - TypeScript
+  - Re:dash
